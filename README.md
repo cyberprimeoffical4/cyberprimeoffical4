@@ -141,7 +141,7 @@ I build and experiment with technology across:
 
 <div align="center">
 
-<a href="https://github.com/cyberprimeoffical4/CyBeRpRiMe">
+<a href="https://github.com/cyberprimeoffical4/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=CyBeRpRiMe&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff&icon_color=00ff88"/>
 </a>
 
