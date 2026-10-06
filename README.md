@@ -61,10 +61,7 @@ I build web apps and security tooling, and I tinker with hardware. I like unders
 <div align="center">
 
 <a href="https://github.com/cyberprimeoffical4/Pico-HID">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=Pico-HID&theme=transparent&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6"/>
-</a>
-<a href="https://github.com/cyberprimeoffical4/CyBeRpRiMe">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=CyBeRpRiMe&theme=transparent&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=Pico-HID&theme=transparent&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6"/>
 </a>
 
 </div>
@@ -92,12 +89,17 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyberprimeoffical4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberprimeoffical4&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
+<img src="https://img.shields.io/github/followers/cyberprimeoffical4?style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/cyberprimeoffical4?style=for-the-badge&logo=github&color=22d3ee&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/created-at/cyberprimeoffical4?style=for-the-badge&logo=github&color=8b5cf6&labelColor=0d1117"/>
+
+<br><br>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=cyberprimeoffical4&theme=dark&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyberprimeoffical4&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Activity"/>
+<br><br>
+
+<img width="100%" src="https://ghchart.rshah.org/8b5cf6/cyberprimeoffical4" alt="Contribution graph"/>
 
 </div>
 
