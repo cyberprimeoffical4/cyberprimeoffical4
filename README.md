@@ -178,15 +178,6 @@ Cybersecurity and development platform.
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cyberprimeoffical4&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff&icon_color=00ff88"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberprimeoffical4&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff"/>
-
-</div>
 
 ## 🔥 GITHUB STREAK
 
