@@ -1,392 +1,127 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,35:001a12,70:003d29,100:00ff88&text=CYBERPRIME&fontSize=72&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=StRaNgErDrEaMeR%20%7C%20CYBERSECURITY%20%7C%20DEVELOPER&descAlignY=60&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0d1117,45:4c1d95,100:22d3ee&text=CYBERPRIME&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=StRaNgErDrEaMeR%20%C2%B7%20Security%20%C2%B7%20Web%20%C2%B7%20Hardware&descAlignY=58&descColor=c4b5fd"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2200&pause=600&color=00FF88&center=true&vCenter=true&width=900&lines=%3E%3E%3E+ACCESSING+CYBERPRIME+NETWORK...;%5B%E2%9C%93%5D+SYSTEM+ONLINE;%5B%E2%9C%93%5D+SECURITY+MODULES+LOADED;%5B%E2%9C%93%5D+DEVELOPMENT+ENVIRONMENT+READY;WELCOME+TO+CYBERPRIME;BUILD+%E2%80%A2+SECURE+%E2%80%A2+CREATE"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=800&lines=Learn+how+systems+work.;Understand+how+they+fail.;Build+better+systems.;Secure+what+you+create."/>
 
-<br><br>
+<br>
 
-<a href="https://cyberprime.netlify.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_CYBERPRIME-00ff88?style=for-the-badge&labelColor=050505"/>
-</a>
-<a href="https://github.com/cyberprimeoffical4">
-<img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=050505"/>
-</a>
-<a href="https://github.com/cyberprimeoffical4?tab=repositories">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_PROJECTS-00ff88?style=for-the-badge&labelColor=050505"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=cyberprimeoffical4&style=for-the-badge&color=00ff88&label=PROFILE+VISITORS"/>
+<a href="https://cyberprime.netlify.app/"><img src="https://img.shields.io/badge/Website-cyberprime.netlify.app-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/cyberprimeoffical4?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://komarev.com/ghpvc/?username=cyberprimeoffical4&style=for-the-badge&color=8b5cf6&labelColor=0d1117&label=Profile+Views"/>
 
 </div>
 
 ---
 
-<div align="center">
+## `whoami`
 
-# 🛡️ CYBERPRIME
+```console
+$ whoami
+StRaNgErDrEaMeR  # developer behind CyberPrime
 
-### `StRaNgErDrEaMeR`
-
-**Cybersecurity • Web Development • Linux • Automation • Hardware • AI**
-
-</div>
-
----
-
-## 🟢 SYSTEM ONLINE
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                     CYBERPRIME CORE                        ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  OPERATOR       : StRaNgErDrEaMeR                          ║
-║  SYSTEM         : CyberPrime                               ║
-║  STATUS         : ● ONLINE                                 ║
-║  SECURITY       : ● ENABLED                                ║
-║  NETWORK        : ● CONNECTED                              ║
-║  DEVELOPMENT    : ● ACTIVE                                 ║
-║                                                            ║
-║  CORE           : ████████████████████████████████ 100%    ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+$ cat focus.txt
+web apps · application security · linux · automation · embedded (Pico / Arduino) · AI x security
 ```
 
-### 👨‍💻 About
+I build web apps and security tooling, and I tinker with hardware. I like understanding a system well enough to see where it breaks, then using that to build it better.
 
-I'm **StRaNgErDrEaMeR**, the developer behind **CyberPrime**.
-
-I build and experiment with technology across:
-
-- 🌐 Web Development
-- 🔐 Cybersecurity
-- 🐧 Linux
-- 🤖 Automation
-- 🔌 Embedded Systems
-- 🧠 AI
-- 🧪 Security Research
-- ☁️ Cloud & Web Platforms
+> [!IMPORTANT]
+> All security work is done only on systems I own or have explicit permission to test.
 
 ---
 
-## 🌐 CYBERPRIME NETWORK
+## Tech stack
 
 <div align="center">
 
-<a href="https://cyberprime.netlify.app/">
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=050505&text=CYBERPRIME%20NETWORK&fontSize=38&fontColor=00ff88&animation=fadeIn"/>
-</a>
-
-<br><br>
-
-<a href="https://cyberprime.netlify.app/">
-<img src="https://img.shields.io/badge/%E2%9A%A1_ENTER_CYBERPRIME-00ff88?style=for-the-badge&labelColor=050505"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,bash,c,cpp&theme=dark"/><br>
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode&theme=dark"/><br>
+<img src="https://skillicons.dev/icons?i=firebase,netlify,vercel,arduino,raspberrypi&theme=dark"/>
 
 </div>
 
 ---
 
-## ⚡ TECHNOLOGY MATRIX
+## Focus areas
 
-<div align="center">
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,bash,c,cpp&theme=dark"/>
-
-### 🐧 Systems & Security
-
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker,vscode&theme=dark"/>
-
-### ☁️ Cloud & Web
-
-<img src="https://skillicons.dev/icons?i=firebase,netlify,vercel&theme=dark"/>
-
-### 🔌 Hardware
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-
-</div>
+| Area | What I work on |
+|---|---|
+| 🌐 **Web** | Front-end apps, Firebase back ends, deployment on Netlify / Vercel |
+| 🔐 **AppSec** | OWASP Top 10, web app testing, secure-by-default builds |
+| 🐧 **Linux & Network** | Hardening, tooling, scripting, network fundamentals |
+| 🤖 **Automation** | Python / Bash tooling for repetitive security and dev tasks |
+| 🔌 **Hardware** | Raspberry Pi Pico and Arduino projects |
+| 🧠 **AI** | Experimenting with AI applied to security workflows |
 
 ---
 
-## 🔐 SECURITY MODULE
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    SECURITY MODULE                      ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  [✓] Web Application Security                            ║
-║  [✓] OWASP                                               ║
-║  [✓] Network Security                                    ║
-║  [✓] Linux Security                                      ║
-║  [✓] Vulnerability Research                              ║
-║  [✓] Security Testing                                    ║
-║  [✓] Ethical Hacking                                     ║
-║  [✓] Security Automation                                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-> ⚠️ Security testing is performed only on systems where authorization or permission exists.
-
----
-
-## 🚀 FEATURED PROJECT
+## Featured projects
 
 <div align="center">
 
 <a href="https://github.com/cyberprimeoffical4/Pico-HID">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=CyBeRpRiMe&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff&icon_color=00ff88"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=Pico-HID&theme=transparent&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6"/>
+</a>
+<a href="https://github.com/cyberprimeoffical4/CyBeRpRiMe">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberprimeoffical4&repo=CyBeRpRiMe&theme=transparent&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6"/>
 </a>
 
 </div>
 
-### 🌐 CyberPrime
-
-Cybersecurity and development platform.
-
-**Website:** https://cyberprime.netlify.app/
+> Tip: add a one-line description, a screenshot, and a short "how it works" to each repo's own README. That is what makes a pinned card convincing.
 
 ---
 
-## 🧪 CYBERPRIME LAB
+## How I build
 
-```text
-                       ┌─────────────────┐
-                       │  CYBERPRIME LAB │
-                       └────────┬────────┘
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-          WEB APPS        CYBERSECURITY       LINUX
-              │                 │                 │
-              ▼                 ▼                 ▼
-          FIREBASE         SECURITY LAB      AUTOMATION
-              │                 │                 │
-              └─────────────────┼─────────────────┘
-                                │
-                                ▼
-                       HARDWARE + AI
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1e1b4b','primaryBorderColor':'#8b5cf6','primaryTextColor':'#e0e7ff','lineColor':'#22d3ee'}}}%%
+flowchart LR
+    A[Idea] --> B[Design]
+    B --> C[Build]
+    C --> D[Test]
+    D --> E[Threat-model & Secure]
+    E --> F[Deploy]
+    F -->|feedback| A
 ```
 
 ---
 
-
-## 🔥 GITHUB STREAK
-
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=cyberprimeoffical4&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=777777"/>
-
-</div>
-
-## 📈 CONTRIBUTION ACTIVITY
+## GitHub stats
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyberprimeoffical4&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&custom_title=CYBERPRIME%20ACTIVITY%20MATRIX"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cyberprimeoffical4&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberprimeoffical4&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9"/>
 
-</div>
+<img width="80%" src="https://streak-stats.demolab.com?user=cyberprimeoffical4&theme=dark&hide_border=true&background=0d1117&ring=8b5cf6&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
-## 🟩 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00ff88/cyberprimeoffical4" alt="CyberPrime GitHub Contributions"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyberprimeoffical4&bg_color=0d1117&color=c9d1d9&line=8b5cf6&point=22d3ee&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## 🧠 DEVELOPMENT STATUS
+## Roadmap
 
-| Module | Status | Level |
-|---|---|---|
-| 🌐 Web Development | 🟢 ACTIVE | ████████████████████ |
-| 🔐 Cybersecurity | 🟢 ACTIVE | ██████████████████░░ |
-| 🐧 Linux | 🟢 ACTIVE | ████████████████░░░░ |
-| 🧪 Security Research | 🟢 ACTIVE | ██████████████░░░░░░ |
-| 🤖 Automation | 🟢 ACTIVE | ██████████████░░░░░░ |
-| 🔌 Hardware | 🟢 ACTIVE | ████████████░░░░░░░░ |
-| 🧠 AI | 🟡 EXPERIMENTAL | ██████████░░░░░░░░░░ |
+- [x] Launch the CyberPrime website
+- [ ] Ship a polished, documented open-source security tool
+- [ ] Publish write-ups on web vulnerabilities and lab builds
+- [ ] Go deeper on Linux internals and network security
+- [ ] Build an AI-assisted security automation project
 
 ---
 
-## 🎯 CURRENT MISSION
-
-```text
-MISSION_01 → Build modern web applications
-MISSION_02 → Learn deeper cybersecurity
-MISSION_03 → Explore Linux systems
-MISSION_04 → Create security automation
-MISSION_05 → Experiment with embedded systems
-MISSION_06 → Explore AI + cybersecurity
-MISSION_07 → Build open-source projects
-```
-
----
-
-## 🧬 DEVELOPMENT PROTOCOL
+## Connect
 
 <div align="center">
 
-```text
-                 ┌───────────────┐
-                 │      IDEA     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │     DESIGN    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │      CODE     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │      TEST     │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │     SECURE    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │     DEPLOY    │
-                 └───────┬───────┘
-                         │
-                         ▼
-                 ┌───────────────┐
-                 │     REPEAT    │
-                 └───────────────┘
-```
+<a href="https://cyberprime.netlify.app/"><img src="https://img.shields.io/badge/Website-8b5cf6?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/cyberprimeoffical4"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:22d3ee,50:4c1d95,100:0d1117&section=footer"/>
 
----
-
-## 🎮 CYBER MODE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+Initializing+CyberPrime...;%5B%E2%9C%93%5D+Loading+kernel;%5B%E2%9C%93%5D+Loading+security+modules;%5B%E2%9C%93%5D+Connecting+GitHub;%5B%E2%9C%93%5D+Starting+development+environment;%5B%E2%9C%93%5D+Firewall+enabled;%5B%E2%9C%93%5D+System+ready;%3E+Welcome%2C+operator." />
-
-</div>
-
----
-
-## 💻 TERMINAL
-
-```text
-┌──(cyberprime㉿system)-[~]
-└─$ cd /cyberprime
-
-┌──(cyberprime㉿system)-[/cyberprime]
-└─$ ls
-
-projects/
-security/
-web/
-linux/
-hardware/
-automation/
-research/
-
-┌──(cyberprime㉿system)-[/cyberprime]
-└─$ ./start.sh
-
-[+] CyberPrime starting...
-[+] Loading kernel...
-[+] Loading security modules...
-[+] Connecting GitHub...
-[+] Starting development environment...
-[+] Firewall enabled...
-[+] System ready.
-
-CYBERPRIME ONLINE.
-```
-
----
-
-## 📡 NETWORK STATUS
-
-<div align="center">
-
-| Module | Status |
-|---|---|
-| 🌐 Website | 🟢 ONLINE |
-| 💻 GitHub | 🟢 ONLINE |
-| 🛠️ Development | 🟢 ACTIVE |
-| 🔐 Security | 🟢 ACTIVE |
-| 🧪 Research | 🟢 ACTIVE |
-| 🤖 Automation | 🟢 ACTIVE |
-
-**CONNECTION:** `████████████████████ 100%`
-
-</div>
-
----
-
-## 🛡️ PHILOSOPHY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=850&lines=Learn+how+systems+work.;Understand+how+they+fail.;Build+better+systems.;Secure+what+you+create.;Never+stop+exploring."/>
-
-</div>
-
----
-
-## 🌐 CONNECT
-
-<div align="center">
-
-<a href="https://cyberprime.netlify.app/">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90_WEBSITE-00ff88?style=for-the-badge&labelColor=050505"/>
-</a>
-
-<a href="https://github.com/cyberprimeoffical4">
-<img src="https://img.shields.io/badge/%F0%9F%92%BB_GITHUB-ffffff?style=for-the-badge&labelColor=050505&logo=github&logoColor=00ff88"/>
-</a>
-
-<a href="https://github.com/cyberprimeoffical4?tab=repositories">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_REPOSITORIES-00ff88?style=for-the-badge&labelColor=050505"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║              🛡️  C Y B E R P R I M E             ║
-║                                                  ║
-║             BUILD • SECURE • CREATE              ║
-║                                                  ║
-║               StRaNgErDrEaMeR                   ║
-║                                                  ║
-║                 SYSTEM ONLINE                    ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00ff88,50:003d29,100:050505&section=footer&animation=twinkling"/>
-
-**© CYBERPRIME • StRaNgErDrEaMeR**
+**© CyberPrime · StRaNgErDrEaMeR**
 
 </div>
